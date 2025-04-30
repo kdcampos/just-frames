@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 10%;
+}
+
+header img {
+  width: 20%;
+}
+
+#game {
+  width: 30%;
+}
+
+#portraits {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20rem;
+  justify-content: center;
+  background-color: rgb(27, 26, 26);
+  display: flex;
+  flex-wrap: wrap;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0) ;
+}
